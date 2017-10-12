@@ -1,0 +1,652 @@
+{
+    "kind": "books#volumes",
+    "totalItems": 4671,
+    "items": [
+              {
+              "kind": "books#volume",
+              "id": "CrYIAAAAQAAJ",
+              "etag": "NMHqDbZWzKk",
+              "selfLink": "https://www.googleapis.com/books/v1/volumes/CrYIAAAAQAAJ",
+              "volumeInfo": {
+              "title": "A New Account of East-India and Persia, in Eight Letters",
+              "subtitle": "Being Nine Years Travels Begun 1672 and Finished 1681 : Containing Observations Made of the Moral, Natural and Artifical Estate of Those Countries ...",
+              "authors": [
+                          "John Fryer"
+                          ],
+              "publishedDate": "1698",
+              "industryIdentifiers": [
+                                      {
+                                      "type": "OTHER",
+                                      "identifier": "OXFORD:N14306742"
+                                      }
+                                      ],
+              "readingModes": {
+              "text": false,
+              "image": true
+              },
+              "pageCount": 427,
+              "printType": "BOOK",
+              "categories": [
+                             "India"
+                             ],
+              "maturityRating": "NOT_MATURE",
+              "allowAnonLogging": false,
+              "contentVersion": "full-1.0.0",
+              "imageLinks": {
+              "smallThumbnail": "http://books.google.com/books/content?id=CrYIAAAAQAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail": "http://books.google.com/books/content?id=CrYIAAAAQAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              },
+              "language": "en",
+              "previewLink": "http://books.google.co.in/books?id=CrYIAAAAQAAJ&printsec=frontcover&dq=a&hl=&as_brr=7&cd=1&source=gbs_api",
+              "infoLink": "https://play.google.com/store/books/details?id=CrYIAAAAQAAJ&source=gbs_api",
+              "canonicalVolumeLink": "https://market.android.com/details?id=book-CrYIAAAAQAAJ"
+              },
+              "saleInfo": {
+              "country": "IN",
+              "saleability": "FREE",
+              "isEbook": true,
+              "buyLink": "https://play.google.com/store/books/details?id=CrYIAAAAQAAJ&rdid=book-CrYIAAAAQAAJ&rdot=1&source=gbs_api"
+              },
+              "accessInfo": {
+              "country": "IN",
+              "viewability": "ALL_PAGES",
+              "embeddable": true,
+              "publicDomain": true,
+              "textToSpeechPermission": "ALLOWED",
+              "epub": {
+              "isAvailable": false
+              },
+              "pdf": {
+              "isAvailable": true,
+              "downloadLink": "http://books.google.co.in/books/download/A_New_Account_of_East_India_and_Persia_i.pdf?id=CrYIAAAAQAAJ&hl=&output=pdf&sig=ACfU3U0JFOcKGSl-unkiV6imBU2ewJvYVw&source=gbs_api"
+              },
+              "webReaderLink": "http://play.google.com/books/reader?id=CrYIAAAAQAAJ&hl=&as_brr=7&printsec=frontcover&source=gbs_api",
+              "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+              "quoteSharingAllowed": false
+              }
+              },
+              {
+              "kind": "books#volume",
+              "id": "xHtUAAAAYAAJ",
+              "etag": "HFjZaWB4FnM",
+              "selfLink": "https://www.googleapis.com/books/v1/volumes/xHtUAAAAYAAJ",
+              "volumeInfo": {
+              "title": "A Treatise of Military Discipline",
+              "subtitle": "In which is Laid Down and Explained the Duty of the Officer and Soldier, Thro' the Several Branches of the Service",
+              "authors": [
+                          "Humphrey Bland"
+                          ],
+              "publishedDate": "1743",
+              "industryIdentifiers": [
+                                      {
+                                      "type": "OTHER",
+                                      "identifier": "NYPL:33433009417621"
+                                      }
+                                      ],
+              "readingModes": {
+              "text": false,
+              "image": true
+              },
+              "pageCount": 364,
+              "printType": "BOOK",
+              "categories": [
+                             "Military art and science"
+                             ],
+              "maturityRating": "NOT_MATURE",
+              "allowAnonLogging": false,
+              "contentVersion": "0.2.2.0.full.1",
+              "panelizationSummary": {
+              "containsEpubBubbles": false,
+              "containsImageBubbles": false
+              },
+              "imageLinks": {
+              "smallThumbnail": "http://books.google.com/books/content?id=xHtUAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail": "http://books.google.com/books/content?id=xHtUAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              },
+              "language": "en",
+              "previewLink": "http://books.google.co.in/books?id=xHtUAAAAYAAJ&pg=PP1&dq=a&hl=&as_brr=7&cd=2&source=gbs_api",
+              "infoLink": "https://play.google.com/store/books/details?id=xHtUAAAAYAAJ&source=gbs_api",
+              "canonicalVolumeLink": "https://market.android.com/details?id=book-xHtUAAAAYAAJ"
+              },
+              "saleInfo": {
+              "country": "IN",
+              "saleability": "FREE",
+              "isEbook": true,
+              "buyLink": "https://play.google.com/store/books/details?id=xHtUAAAAYAAJ&rdid=book-xHtUAAAAYAAJ&rdot=1&source=gbs_api"
+              },
+              "accessInfo": {
+              "country": "IN",
+              "viewability": "ALL_PAGES",
+              "embeddable": true,
+              "publicDomain": true,
+              "textToSpeechPermission": "ALLOWED",
+              "epub": {
+              "isAvailable": false
+              },
+              "pdf": {
+              "isAvailable": true,
+              "downloadLink": "http://books.google.co.in/books/download/A_Treatise_of_Military_Discipline.pdf?id=xHtUAAAAYAAJ&hl=&output=pdf&sig=ACfU3U3SJly40vaQTGFuPRnMx4GSvyIsJw&source=gbs_api"
+              },
+              "webReaderLink": "http://play.google.com/books/reader?id=xHtUAAAAYAAJ&hl=&as_brr=7&printsec=frontcover&source=gbs_api",
+              "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+              "quoteSharingAllowed": false
+              }
+              },
+              {
+              "kind": "books#volume",
+              "id": "SncEAAAAYAAJ",
+              "etag": "cPrrCjMBZ54",
+              "selfLink": "https://www.googleapis.com/books/v1/volumes/SncEAAAAYAAJ",
+              "volumeInfo": {
+              "title": "The Whole Duty of a Woman, Or, An Infallible Guide to the Fair Sex",
+              "subtitle": "Containing Rules, Directions, and Observations, for Their Conduct and Behavior Through All Ages and Circumstances of Life, as Virgins, Wives, Or Widows : with ... Rules and Receipts in Every Kind of Cookery ...",
+              "publishedDate": "1737",
+              "industryIdentifiers": [
+                                      {
+                                      "type": "OTHER",
+                                      "identifier": "HARVARD:RSMCUK"
+                                      }
+                                      ],
+              "readingModes": {
+              "text": false,
+              "image": true
+              },
+              "pageCount": 682,
+              "printType": "BOOK",
+              "categories": [
+                             "Cookery"
+                             ],
+              "maturityRating": "NOT_MATURE",
+              "allowAnonLogging": false,
+              "contentVersion": "0.1.1.0.full.1",
+              "imageLinks": {
+              "smallThumbnail": "http://books.google.com/books/content?id=SncEAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail": "http://books.google.com/books/content?id=SncEAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              },
+              "language": "en",
+              "previewLink": "http://books.google.co.in/books?id=SncEAAAAYAAJ&printsec=frontcover&dq=a&hl=&as_brr=7&cd=3&source=gbs_api",
+              "infoLink": "https://play.google.com/store/books/details?id=SncEAAAAYAAJ&source=gbs_api",
+              "canonicalVolumeLink": "https://market.android.com/details?id=book-SncEAAAAYAAJ"
+              },
+              "saleInfo": {
+              "country": "IN",
+              "saleability": "FREE",
+              "isEbook": true,
+              "buyLink": "https://play.google.com/store/books/details?id=SncEAAAAYAAJ&rdid=book-SncEAAAAYAAJ&rdot=1&source=gbs_api"
+              },
+              "accessInfo": {
+              "country": "IN",
+              "viewability": "ALL_PAGES",
+              "embeddable": true,
+              "publicDomain": true,
+              "textToSpeechPermission": "ALLOWED",
+              "epub": {
+              "isAvailable": false,
+              "downloadLink": "http://books.google.co.in/books/download/The_Whole_Duty_of_a_Woman_Or_An_Infallib.epub?id=SncEAAAAYAAJ&hl=&output=epub&source=gbs_api"
+              },
+              "pdf": {
+              "isAvailable": true,
+              "downloadLink": "http://books.google.co.in/books/download/The_Whole_Duty_of_a_Woman_Or_An_Infallib.pdf?id=SncEAAAAYAAJ&hl=&output=pdf&sig=ACfU3U3pT8d_QmhfMNoXwIKd1_ZJqXo9ZQ&source=gbs_api"
+              },
+              "webReaderLink": "http://play.google.com/books/reader?id=SncEAAAAYAAJ&hl=&as_brr=7&printsec=frontcover&source=gbs_api",
+              "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+              "quoteSharingAllowed": false
+              }
+              },
+              {
+              "kind": "books#volume",
+              "id": "fCQLAAAAYAAJ",
+              "etag": "Flzi17hK5Hg",
+              "selfLink": "https://www.googleapis.com/books/v1/volumes/fCQLAAAAYAAJ",
+              "volumeInfo": {
+              "title": "A Journey Made in the Summer of 1794",
+              "subtitle": "Through Holland and the Western Frontier of Germany, with a Return Down the Rhine; to which are Added, Observations During a Tour to the Lakes of Lancashire, Westmoreland, and Cumberland",
+              "authors": [
+                          "Ann Ward Radcliffe"
+                          ],
+              "publishedDate": "1795",
+              "industryIdentifiers": [
+                                      {
+                                      "type": "OTHER",
+                                      "identifier": "NYPL:33433082474630"
+                                      }
+                                      ],
+              "readingModes": {
+              "text": false,
+              "image": true
+              },
+              "pageCount": 499,
+              "printType": "BOOK",
+              "categories": [
+                             "Europe"
+                             ],
+              "maturityRating": "NOT_MATURE",
+              "allowAnonLogging": false,
+              "contentVersion": "0.1.1.0.full.1",
+              "panelizationSummary": {
+              "containsEpubBubbles": false,
+              "containsImageBubbles": false
+              },
+              "imageLinks": {
+              "smallThumbnail": "http://books.google.com/books/content?id=fCQLAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail": "http://books.google.com/books/content?id=fCQLAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              },
+              "language": "en",
+              "previewLink": "http://books.google.co.in/books?id=fCQLAAAAYAAJ&printsec=frontcover&dq=a&hl=&as_brr=7&cd=4&source=gbs_api",
+              "infoLink": "https://play.google.com/store/books/details?id=fCQLAAAAYAAJ&source=gbs_api",
+              "canonicalVolumeLink": "https://market.android.com/details?id=book-fCQLAAAAYAAJ"
+              },
+              "saleInfo": {
+              "country": "IN",
+              "saleability": "FREE",
+              "isEbook": true,
+              "buyLink": "https://play.google.com/store/books/details?id=fCQLAAAAYAAJ&rdid=book-fCQLAAAAYAAJ&rdot=1&source=gbs_api"
+              },
+              "accessInfo": {
+              "country": "IN",
+              "viewability": "ALL_PAGES",
+              "embeddable": true,
+              "publicDomain": true,
+              "textToSpeechPermission": "ALLOWED",
+              "epub": {
+              "isAvailable": false,
+              "downloadLink": "http://books.google.co.in/books/download/A_Journey_Made_in_the_Summer_of_1794.epub?id=fCQLAAAAYAAJ&hl=&output=epub&source=gbs_api"
+              },
+              "pdf": {
+              "isAvailable": true,
+              "downloadLink": "http://books.google.co.in/books/download/A_Journey_Made_in_the_Summer_of_1794.pdf?id=fCQLAAAAYAAJ&hl=&output=pdf&sig=ACfU3U0IL3-4QMaxXvOHMAaZ6xd_yT_V5A&source=gbs_api"
+              },
+              "webReaderLink": "http://play.google.com/books/reader?id=fCQLAAAAYAAJ&hl=&as_brr=7&printsec=frontcover&source=gbs_api",
+              "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+              "quoteSharingAllowed": false
+              }
+              },
+              {
+              "kind": "books#volume",
+              "id": "b_hBAAAAYAAJ",
+              "etag": "MEgRoSkWs/E",
+              "selfLink": "https://www.googleapis.com/books/v1/volumes/b_hBAAAAYAAJ",
+              "volumeInfo": {
+              "title": "A New Discourse of Trade ...",
+              "authors": [
+                          "Sir Josiah Child"
+                          ],
+              "publishedDate": "1698",
+              "industryIdentifiers": [
+                                      {
+                                      "type": "OTHER",
+                                      "identifier": "COLUMBIA:CU56740395"
+                                      }
+                                      ],
+              "readingModes": {
+              "text": false,
+              "image": true
+              },
+              "pageCount": 238,
+              "printType": "BOOK",
+              "categories": [
+                             "Balance of trade"
+                             ],
+              "maturityRating": "NOT_MATURE",
+              "allowAnonLogging": false,
+              "contentVersion": "0.1.1.0.full.1",
+              "panelizationSummary": {
+              "containsEpubBubbles": false,
+              "containsImageBubbles": false
+              },
+              "imageLinks": {
+              "smallThumbnail": "http://books.google.com/books/content?id=b_hBAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail": "http://books.google.com/books/content?id=b_hBAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              },
+              "language": "en",
+              "previewLink": "http://books.google.co.in/books?id=b_hBAAAAYAAJ&printsec=frontcover&dq=a&hl=&as_brr=7&cd=5&source=gbs_api",
+              "infoLink": "https://play.google.com/store/books/details?id=b_hBAAAAYAAJ&source=gbs_api",
+              "canonicalVolumeLink": "https://market.android.com/details?id=book-b_hBAAAAYAAJ"
+              },
+              "saleInfo": {
+              "country": "IN",
+              "saleability": "FREE",
+              "isEbook": true,
+              "buyLink": "https://play.google.com/store/books/details?id=b_hBAAAAYAAJ&rdid=book-b_hBAAAAYAAJ&rdot=1&source=gbs_api"
+              },
+              "accessInfo": {
+              "country": "IN",
+              "viewability": "ALL_PAGES",
+              "embeddable": true,
+              "publicDomain": true,
+              "textToSpeechPermission": "ALLOWED",
+              "epub": {
+              "isAvailable": false,
+              "downloadLink": "http://books.google.co.in/books/download/A_New_Discourse_of_Trade.epub?id=b_hBAAAAYAAJ&hl=&output=epub&source=gbs_api"
+              },
+              "pdf": {
+              "isAvailable": true,
+              "downloadLink": "http://books.google.co.in/books/download/A_New_Discourse_of_Trade.pdf?id=b_hBAAAAYAAJ&hl=&output=pdf&sig=ACfU3U15v96X0iaKuphXzlq0m2_2I34lgg&source=gbs_api"
+              },
+              "webReaderLink": "http://play.google.com/books/reader?id=b_hBAAAAYAAJ&hl=&as_brr=7&printsec=frontcover&source=gbs_api",
+              "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+              "quoteSharingAllowed": false
+              }
+              },
+              {
+              "kind": "books#volume",
+              "id": "EBxIAAAAMAAJ",
+              "etag": "ld+1YeWyGww",
+              "selfLink": "https://www.googleapis.com/books/v1/volumes/EBxIAAAAMAAJ",
+              "volumeInfo": {
+              "title": "A journey through England",
+              "subtitle": "In familiar letters from a gentleman here, to his friend abroad",
+              "authors": [
+                          "John Macky"
+                          ],
+              "publishedDate": "1722",
+              "industryIdentifiers": [
+                                      {
+                                      "type": "OTHER",
+                                      "identifier": "UOM:39015049758645"
+                                      }
+                                      ],
+              "readingModes": {
+              "text": false,
+              "image": true
+              },
+              "printType": "BOOK",
+              "categories": [
+                             "England"
+                             ],
+              "maturityRating": "NOT_MATURE",
+              "allowAnonLogging": false,
+              "contentVersion": "0.1.0.0.full.1",
+              "imageLinks": {
+              "smallThumbnail": "http://books.google.com/books/content?id=EBxIAAAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail": "http://books.google.com/books/content?id=EBxIAAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              },
+              "language": "en",
+              "previewLink": "http://books.google.co.in/books?id=EBxIAAAAMAAJ&printsec=frontcover&dq=a&hl=&as_brr=7&cd=6&source=gbs_api",
+              "infoLink": "https://play.google.com/store/books/details?id=EBxIAAAAMAAJ&source=gbs_api",
+              "canonicalVolumeLink": "https://market.android.com/details?id=book-EBxIAAAAMAAJ"
+              },
+              "saleInfo": {
+              "country": "IN",
+              "saleability": "FREE",
+              "isEbook": true,
+              "buyLink": "https://play.google.com/store/books/details?id=EBxIAAAAMAAJ&rdid=book-EBxIAAAAMAAJ&rdot=1&source=gbs_api"
+              },
+              "accessInfo": {
+              "country": "IN",
+              "viewability": "ALL_PAGES",
+              "embeddable": true,
+              "publicDomain": true,
+              "textToSpeechPermission": "ALLOWED",
+              "epub": {
+              "isAvailable": false,
+              "downloadLink": "http://books.google.co.in/books/download/A_journey_through_England.epub?id=EBxIAAAAMAAJ&hl=&output=epub&source=gbs_api"
+              },
+              "pdf": {
+              "isAvailable": true,
+              "downloadLink": "http://books.google.co.in/books/download/A_journey_through_England.pdf?id=EBxIAAAAMAAJ&hl=&output=pdf&sig=ACfU3U1GfZvUAR5qwRgBj0iAR3BdmdSa5g&source=gbs_api"
+              },
+              "webReaderLink": "http://play.google.com/books/reader?id=EBxIAAAAMAAJ&hl=&as_brr=7&printsec=frontcover&source=gbs_api",
+              "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+              "quoteSharingAllowed": false
+              }
+              },
+              {
+              "kind": "books#volume",
+              "id": "uUPhhcdSACQC",
+              "etag": "vw0nJ/BI5ZM",
+              "selfLink": "https://www.googleapis.com/books/v1/volumes/uUPhhcdSACQC",
+              "volumeInfo": {
+              "title": "A New Classical Dictionary of Greek and Roman Biography, Mythology, and Geography",
+              "subtitle": "Partly Based Upon the Dictionary of Greek and Roman Biography and Mythology",
+              "authors": [
+                          "Sir William Smith"
+                          ],
+              "publishedDate": "1851",
+              "industryIdentifiers": [
+                                      {
+                                      "type": "OTHER",
+                                      "identifier": "UVA:X001620866"
+                                      }
+                                      ],
+              "readingModes": {
+              "text": false,
+              "image": true
+              },
+              "pageCount": 1039,
+              "printType": "BOOK",
+              "categories": [
+                             "Classical dictionaries"
+                             ],
+              "averageRating": 5.0,
+              "ratingsCount": 1,
+              "maturityRating": "NOT_MATURE",
+              "allowAnonLogging": false,
+              "contentVersion": "0.1.0.0.full.1",
+              "imageLinks": {
+              "smallThumbnail": "http://books.google.com/books/content?id=uUPhhcdSACQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail": "http://books.google.com/books/content?id=uUPhhcdSACQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              },
+              "language": "en",
+              "previewLink": "http://books.google.co.in/books?id=uUPhhcdSACQC&printsec=frontcover&dq=a&hl=&as_brr=7&cd=7&source=gbs_api",
+              "infoLink": "https://play.google.com/store/books/details?id=uUPhhcdSACQC&source=gbs_api",
+              "canonicalVolumeLink": "https://market.android.com/details?id=book-uUPhhcdSACQC"
+              },
+              "saleInfo": {
+              "country": "IN",
+              "saleability": "FREE",
+              "isEbook": true,
+              "buyLink": "https://play.google.com/store/books/details?id=uUPhhcdSACQC&rdid=book-uUPhhcdSACQC&rdot=1&source=gbs_api"
+              },
+              "accessInfo": {
+              "country": "IN",
+              "viewability": "ALL_PAGES",
+              "embeddable": true,
+              "publicDomain": true,
+              "textToSpeechPermission": "ALLOWED",
+              "epub": {
+              "isAvailable": false
+              },
+              "pdf": {
+              "isAvailable": true,
+              "downloadLink": "http://books.google.co.in/books/download/A_New_Classical_Dictionary_of_Greek_and.pdf?id=uUPhhcdSACQC&hl=&output=pdf&sig=ACfU3U3G1HVQkWgPrYl_lq2Px26Dl5cIAg&source=gbs_api"
+              },
+              "webReaderLink": "http://play.google.com/books/reader?id=uUPhhcdSACQC&hl=&as_brr=7&printsec=frontcover&source=gbs_api",
+              "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+              "quoteSharingAllowed": false
+              }
+              },
+              {
+              "kind": "books#volume",
+              "id": "XlRJAAAAYAAJ",
+              "etag": "T2SnDZ0H+RU",
+              "selfLink": "https://www.googleapis.com/books/v1/volumes/XlRJAAAAYAAJ",
+              "volumeInfo": {
+              "title": "An Inquiry Into the Nature and Origin of Mental Derangement",
+              "subtitle": "Comprehending a Concise System of the Physiology and Pathology of the Human Mind. And a History of the Passions and Their Effects",
+              "authors": [
+                          "Sir Alexander Crichton"
+                          ],
+              "publishedDate": "1798",
+              "industryIdentifiers": [
+                                      {
+                                      "type": "OTHER",
+                                      "identifier": "NYPL:33433011465048"
+                                      }
+                                      ],
+              "readingModes": {
+              "text": false,
+              "image": true
+              },
+              "printType": "BOOK",
+              "categories": [
+                             "Insanity (Law)"
+                             ],
+              "maturityRating": "NOT_MATURE",
+              "allowAnonLogging": false,
+              "contentVersion": "1.0.0.0.full.1",
+              "imageLinks": {
+              "smallThumbnail": "http://books.google.com/books/content?id=XlRJAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail": "http://books.google.com/books/content?id=XlRJAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              },
+              "language": "en",
+              "previewLink": "http://books.google.co.in/books?id=XlRJAAAAYAAJ&printsec=frontcover&dq=a&hl=&as_brr=7&cd=8&source=gbs_api",
+              "infoLink": "https://play.google.com/store/books/details?id=XlRJAAAAYAAJ&source=gbs_api",
+              "canonicalVolumeLink": "https://market.android.com/details?id=book-XlRJAAAAYAAJ"
+              },
+              "saleInfo": {
+              "country": "IN",
+              "saleability": "FREE",
+              "isEbook": true,
+              "buyLink": "https://play.google.com/store/books/details?id=XlRJAAAAYAAJ&rdid=book-XlRJAAAAYAAJ&rdot=1&source=gbs_api"
+              },
+              "accessInfo": {
+              "country": "IN",
+              "viewability": "ALL_PAGES",
+              "embeddable": true,
+              "publicDomain": true,
+              "textToSpeechPermission": "ALLOWED",
+              "epub": {
+              "isAvailable": false,
+              "downloadLink": "http://books.google.co.in/books/download/An_Inquiry_Into_the_Nature_and_Origin_of.epub?id=XlRJAAAAYAAJ&hl=&output=epub&source=gbs_api"
+              },
+              "pdf": {
+              "isAvailable": true,
+              "downloadLink": "http://books.google.co.in/books/download/An_Inquiry_Into_the_Nature_and_Origin_of.pdf?id=XlRJAAAAYAAJ&hl=&output=pdf&sig=ACfU3U10IogCVe_IgL9MpOyjIrmenuRjcA&source=gbs_api"
+              },
+              "webReaderLink": "http://play.google.com/books/reader?id=XlRJAAAAYAAJ&hl=&as_brr=7&printsec=frontcover&source=gbs_api",
+              "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+              "quoteSharingAllowed": false
+              }
+              },
+              {
+              "kind": "books#volume",
+              "id": "6Z1PAQAAIAAJ",
+              "etag": "QcAXRzWn1jA",
+              "selfLink": "https://www.googleapis.com/books/v1/volumes/6Z1PAQAAIAAJ",
+              "volumeInfo": {
+              "title": "A briefe discourse of a disease called the suffocation of the mother",
+              "authors": [
+                          "Edward Jorden"
+                          ],
+              "publishedDate": "1603",
+              "industryIdentifiers": [
+                                      {
+                                      "type": "OTHER",
+                                      "identifier": "UCLA:L0096814066"
+                                      }
+                                      ],
+              "readingModes": {
+              "text": false,
+              "image": true
+              },
+              "pageCount": 50,
+              "printType": "BOOK",
+              "categories": [
+                             "Hysteria"
+                             ],
+              "maturityRating": "NOT_MATURE",
+              "allowAnonLogging": false,
+              "contentVersion": "0.3.3.0.full.1",
+              "panelizationSummary": {
+              "containsEpubBubbles": false,
+              "containsImageBubbles": false
+              },
+              "imageLinks": {
+              "smallThumbnail": "http://books.google.com/books/content?id=6Z1PAQAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail": "http://books.google.com/books/content?id=6Z1PAQAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              },
+              "language": "en",
+              "previewLink": "http://books.google.co.in/books?id=6Z1PAQAAIAAJ&pg=PP1&dq=a&hl=&as_brr=7&cd=9&source=gbs_api",
+              "infoLink": "https://play.google.com/store/books/details?id=6Z1PAQAAIAAJ&source=gbs_api",
+              "canonicalVolumeLink": "https://market.android.com/details?id=book-6Z1PAQAAIAAJ"
+              },
+              "saleInfo": {
+              "country": "IN",
+              "saleability": "FREE",
+              "isEbook": true,
+              "buyLink": "https://play.google.com/store/books/details?id=6Z1PAQAAIAAJ&rdid=book-6Z1PAQAAIAAJ&rdot=1&source=gbs_api"
+              },
+              "accessInfo": {
+              "country": "IN",
+              "viewability": "ALL_PAGES",
+              "embeddable": true,
+              "publicDomain": true,
+              "textToSpeechPermission": "ALLOWED",
+              "epub": {
+              "isAvailable": false
+              },
+              "pdf": {
+              "isAvailable": true,
+              "downloadLink": "http://books.google.co.in/books/download/A_briefe_discourse_of_a_disease_called_t.pdf?id=6Z1PAQAAIAAJ&hl=&output=pdf&sig=ACfU3U3FRq8fJWvb3-vcRHfgB4d4VDBcHg&source=gbs_api"
+              },
+              "webReaderLink": "http://play.google.com/books/reader?id=6Z1PAQAAIAAJ&hl=&as_brr=7&printsec=frontcover&source=gbs_api",
+              "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+              "quoteSharingAllowed": false
+              }
+              },
+              {
+              "kind": "books#volume",
+              "id": "0PIRAAAAYAAJ",
+              "etag": "TrpCGtLFiBc",
+              "selfLink": "https://www.googleapis.com/books/v1/volumes/0PIRAAAAYAAJ",
+              "volumeInfo": {
+              "title": "A Treatise on Insanity and Other Disorders Affecting the Mind",
+              "authors": [
+                          "James Cowles Prichard"
+                          ],
+              "publishedDate": "1837",
+              "industryIdentifiers": [
+                                      {
+                                      "type": "OTHER",
+                                      "identifier": "HARVARD:32044011921970"
+                                      }
+                                      ],
+              "readingModes": {
+              "text": false,
+              "image": true
+              },
+              "pageCount": 337,
+              "printType": "BOOK",
+              "categories": [
+                             "Insanity (Law)"
+                             ],
+              "maturityRating": "NOT_MATURE",
+              "allowAnonLogging": false,
+              "contentVersion": "full-1.0.0",
+              "imageLinks": {
+              "smallThumbnail": "http://books.google.com/books/content?id=0PIRAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail": "http://books.google.com/books/content?id=0PIRAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              },
+              "language": "en",
+              "previewLink": "http://books.google.co.in/books?id=0PIRAAAAYAAJ&printsec=frontcover&dq=a&hl=&as_brr=7&cd=10&source=gbs_api",
+              "infoLink": "https://play.google.com/store/books/details?id=0PIRAAAAYAAJ&source=gbs_api",
+              "canonicalVolumeLink": "https://market.android.com/details?id=book-0PIRAAAAYAAJ"
+              },
+              "saleInfo": {
+              "country": "IN",
+              "saleability": "FREE",
+              "isEbook": true,
+              "buyLink": "https://play.google.com/store/books/details?id=0PIRAAAAYAAJ&rdid=book-0PIRAAAAYAAJ&rdot=1&source=gbs_api"
+              },
+              "accessInfo": {
+              "country": "IN",
+              "viewability": "ALL_PAGES",
+              "embeddable": true,
+              "publicDomain": true,
+              "textToSpeechPermission": "ALLOWED",
+              "epub": {
+              "isAvailable": false,
+              "downloadLink": "http://books.google.co.in/books/download/A_Treatise_on_Insanity_and_Other_Disorde.epub?id=0PIRAAAAYAAJ&hl=&output=epub&source=gbs_api"
+              },
+              "pdf": {
+              "isAvailable": true,
+              "downloadLink": "http://books.google.co.in/books/download/A_Treatise_on_Insanity_and_Other_Disorde.pdf?id=0PIRAAAAYAAJ&hl=&output=pdf&sig=ACfU3U1-bHl2SUta3_Nk-qxk42Llm8BtjA&source=gbs_api"
+              },
+              "webReaderLink": "http://play.google.com/books/reader?id=0PIRAAAAYAAJ&hl=&as_brr=7&printsec=frontcover&source=gbs_api",
+              "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+              "quoteSharingAllowed": false
+              }
+              }
+              ]
+}
