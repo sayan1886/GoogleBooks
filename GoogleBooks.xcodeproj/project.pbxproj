@@ -614,7 +614,7 @@
 				DEVELOPMENT_TEAM = NHBHM58ET9;
 				INFOPLIST_FILE = GoogleBooks/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.demo.GoogleBooks;
+				PRODUCT_BUNDLE_IDENTIFIER = com.sayan.GoogleBooks;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 4.0;
@@ -631,7 +631,7 @@
 				DEVELOPMENT_TEAM = NHBHM58ET9;
 				INFOPLIST_FILE = GoogleBooks/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.demo.GoogleBooks;
+				PRODUCT_BUNDLE_IDENTIFIER = com.sayan.GoogleBooks;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -648,7 +648,7 @@
 				DEVELOPMENT_TEAM = NHBHM58ET9;
 				INFOPLIST_FILE = GoogleBooksTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.demo.GoogleBooksTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.sayan.GoogleBooksTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 4.0;
@@ -667,7 +667,7 @@
 				DEVELOPMENT_TEAM = NHBHM58ET9;
 				INFOPLIST_FILE = GoogleBooksTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.demo.GoogleBooksTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.sayan.GoogleBooksTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -683,7 +683,7 @@
 				DEVELOPMENT_TEAM = NHBHM58ET9;
 				INFOPLIST_FILE = GoogleBooksUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.demo.GoogleBooksUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.sayan.GoogleBooksUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -699,7 +699,7 @@
 				DEVELOPMENT_TEAM = NHBHM58ET9;
 				INFOPLIST_FILE = GoogleBooksUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.demo.GoogleBooksUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.sayan.GoogleBooksUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
